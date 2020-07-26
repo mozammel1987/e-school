@@ -1,0 +1,19 @@
+.logo{
+    width: 20%;
+}
+.btn{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+.half-width{
+    width: 25%;
+    float: left;
+    margin-right: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 250%;
+
+}
+    
